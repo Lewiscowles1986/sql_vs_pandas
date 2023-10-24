@@ -1,6 +1,6 @@
 #!/bin/bash
 
-TEST_DB='data/test.db'
+TEST_DB="data/test.${n}.db"
 EMPLOYEE_FILE=$1
 BONUS_FILE=$2
 
